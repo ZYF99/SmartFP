@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--基础主色-->
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#EC9303</color>
+    <color name="colorLight">@color/white</color>
+    <color name="colorDark">@color/black</color>
+    <color name="colorAccentAlpha">#801572fc</color>
+    <color name="launchback">#31373d</color>
+
+    <!--背景色-->
+    <color name="windowsBackground">#FFFFFF</color>
+    <color name="windowsBackgroundLight">#FFFFFF</color>
+    <color name="listBackground">#EFF2F4</color>
+    <color name="layoutBackGround">#F8FAFF</color>
+
+    <!--字体颜色-->
+    <color name="textPrimary">#1F1F1F</color>
+    <color name="textSecond">#8D8B8B</color>
+    <color name="textAccent">@color/colorAccent</color>
+    <color name="textLight">@color/colorLight</color>
+    <color name="textDark">#202020</color>
+
+    <!--提示色彩-->
+    <color name="alertNormal">#4ce275</color>
+    <color name="alertImportant">#f98d2c</color>
+
+    <!--遮罩颜色-->
+    <color name="maskChatHeader">@color/black_alpha_48</color>
+    <!--导航栏Icon遮罩色-->
+    <color name="navIconTintLight">@color/white</color>
+    <!--按钮背景色-->
+    <color name="bg_btn">#EC9303</color>
+    <color name="bg_blue">#2196F3</color>
+    <color name="bg_green">#07BD9F</color>
+    <!--页数背景色-->
+    <color name="bg_pagenum">#8F000000</color>
+</resources>
